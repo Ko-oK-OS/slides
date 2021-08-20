@@ -24,7 +24,7 @@ backgroundImage: url('assets/bg-lead.png')
 -->
 
 # xv6-rust 设计报告
-齐呈祥 闫璟 李丰杰
+Ko.oK  
 
 ---
 ## Outline
@@ -57,7 +57,7 @@ xv6-rust 是使用对MIT xv6-riscv 项目的重新设计与实现。这次实验
 - SpinLock & SleepLock & RAII
 - Process
 - Memory
-- File Systemm
+- File System
 - Trap
 ---
 ## Static Variable
